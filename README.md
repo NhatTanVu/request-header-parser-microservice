@@ -8,6 +8,7 @@
 
 ```
 https://tan-header-parser-microservice.herokuapp.com/
+https://tan-header-parser-microservice.herokuapp.com/api/whoami
 ```
 
 ## Example output
