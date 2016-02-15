@@ -36,4 +36,4 @@ var srv = http.createServer(function (req, res) {
     }
 });
 
-srv.listen(8080);
+srv.listen(process.env.PORT || 8080);
