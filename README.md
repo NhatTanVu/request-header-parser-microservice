@@ -7,7 +7,7 @@
 ## Example usage
 
 ```
-https://request-header-parser-microservice-tan-vu-1.c9users.io/api/whoami
+https://tan-header-parser-microservice.herokuapp.com/
 ```
 
 ## Example output
